@@ -25,18 +25,25 @@ My Projects:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
 </a>    
 
+ 
+ 
 
 
+ <!-- Project Cards -->
+<h2>My Projects</h2>
 
+<a href="https://github.com/whynotnghiavu/nghia-oop-adapter-round-square" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-oop-adapter-round-square&theme=highcontrast" alt="nghia-oop-adapter-round-square" />
+</a>
 
-https://github.com/whynotnghiavu/nghia-oop-adapter-round-square
+<a href="https://github.com/whynotnghiavu/nghia-contact-manager" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-contact-manager&theme=highcontrast" alt="nghia-contact-manager" />
+</a>
 
+<a href="https://github.com/whynotnghiavu/nghia-crawl-data-scrapy-topcv-crawler" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-crawl-data-scrapy-topcv-crawler&theme=highcontrast" alt="nghia-crawl-data-scrapy-topcv-crawler" />
+</a>
 
-https://github.com/whynotnghiavu/nghia-contact-manager
-
-
-https://github.com/whynotnghiavu/nghia-crawl-data-scrapy-topcv-crawler
-
-
-https://github.com/whynotnghiavu/nghia-einvoice-system
-
+<a href="https://github.com/whynotnghiavu/nghia-einvoice-system" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-einvoice-system&theme=highcontrast" alt="nghia-einvoice-system" />
+</a>
