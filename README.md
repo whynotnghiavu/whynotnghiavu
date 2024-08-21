@@ -59,4 +59,4 @@ My Projects:
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/whynotnghiavu/whynotnghiavu/blob/output/github-contribution-grid-snake.svg)
