@@ -18,10 +18,9 @@ GitHub Stats:
 <hr>
 
 <!-- My Projects: -->
+<!-- Tham khảo: https://github.com/uvipen/uvipen -->
 
 My Projects:
-
-<!-- https://github.com/uvipen/uvipen -->
 
 <a href="https://github.com/whynotnghiavu/nghia-oop-adapter-round-square" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-oop-adapter-round-square&theme=highcontrast" alt="nghia-oop-adapter-round-square" />
