@@ -7,7 +7,7 @@ Hello, I am Vu Van Nghia. You can contact me via email:
 
 <hr>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats: -->
 
 GitHub Stats:
 
@@ -17,7 +17,7 @@ GitHub Stats:
 
 <hr>
 
-<!-- Project Cards -->
+<!-- My Projects: -->
 
 My Projects:
 
@@ -47,16 +47,10 @@ My Projects:
 
 <!--  -->
 
+<hr>
 
+<!-- Snake animation: -->
 
-
-
-
-
-
-
-
-
-
+Snake animation:
 
 ![Snake animation](https://github.com/whynotnghiavu/whynotnghiavu/blob/output/github-contribution-grid-snake.svg)
