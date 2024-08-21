@@ -12,3 +12,20 @@ GitHub Stats:
 </a>
 
 <!--  -->
+
+My Projects:
+
+
+
+
+
+
+<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+</a>    
+
+
+
+
+
