@@ -27,30 +27,22 @@ My Projects:
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-oop-adapter-round-square&theme=highcontrast" alt="nghia-oop-adapter-round-square" />
 </a>
 
-<!--  -->
+<!-- -->
 
 <a href="https://github.com/whynotnghiavu/nghia-contact-manager" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-contact-manager&theme=dark" alt="nghia-contact-manager" />
 </a>
 
-<!--  -->
+<!-- -->
 
 <a href="https://github.com/whynotnghiavu/nghia-crawl-data-scrapy-topcv-crawler" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-crawl-data-scrapy-topcv-crawler&theme=merko" alt="nghia-crawl-data-scrapy-topcv-crawler" />
 </a>
 
-<!--  -->
+<!-- -->
 
 <a href="https://github.com/whynotnghiavu/nghia-einvoice-system" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-einvoice-system&theme=radical" alt="nghia-einvoice-system" />
 </a>
 
-<!--  -->
-
-<hr>
-
-<!-- Snake animation: -->
-
-Snake animation:
-
-![Snake animation](https://github.com/whynotnghiavu/whynotnghiavu/blob/output/github-contribution-grid-snake.svg)
+<!-- -->
