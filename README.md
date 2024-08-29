@@ -20,6 +20,11 @@ GitHub Stats:
 <!-- My Projects: -->
 <!-- Tham khảo: https://github.com/uvipen/uvipen -->
 
+<!-- onedark -->
+<!-- cobalt -->
+<!-- synthwave -->
+<!-- dracula -->
+
 My Projects:
 
 <a href="https://github.com/whynotnghiavu/nghia-oop-adapter-round-square" target="_blank">
@@ -42,6 +47,12 @@ My Projects:
 
 <a href="https://github.com/whynotnghiavu/nghia-einvoice-system" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-einvoice-system&theme=radical" alt="nghia-einvoice-system" />
+</a>
+
+<!-- -->
+
+<a href="https://github.com/whynotnghiavu/whynotnghiavu" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=whynotnghiavu&theme=gruvbox" alt="whynotnghiavu" />
 </a>
 
 <!-- -->
