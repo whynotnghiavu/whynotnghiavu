@@ -20,10 +20,9 @@ GitHub Stats:
 <!-- My Projects: -->
 <!-- Tham khảo: https://github.com/uvipen/uvipen -->
 
-<!--  -->
 <!-- cobalt -->
 <!-- synthwave -->
-<!-- dracula -->
+<!--  -->
 
 My Projects:
 
@@ -51,13 +50,18 @@ My Projects:
 
 <!-- -->
 
-<a href="https://github.com/whynotnghiavu/whynotnghiavu" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=whynotnghiavu&theme=gruvbox" alt="whynotnghiavu" />
+<a href="https://github.com/whynotnghiavu/fis-mini-project-kong-api-gateway" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=dracula" alt="fis-mini-project-kong-api-gateway" />
 </a>
+<!-- -->
+<!-- <a href="https://github.com/whynotnghiavu/FIS-test-be" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=FIS-test-be&theme=onedark" alt="FIS-test-be" />
+</a> -->
 
 <!-- -->
-<a href="https://github.com/whynotnghiavu/FIS-test-be" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=FIS-test-be&theme=onedark" alt="FIS-test-be" />
+
+<a href="https://github.com/whynotnghiavu/whynotnghiavu" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=whynotnghiavu&theme=gruvbox" alt="whynotnghiavu" />
 </a>
 
 <!-- -->
