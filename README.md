@@ -50,13 +50,15 @@ My Projects:
 <!-- -->
 
 <a href="https://github.com/whynotnghiavu/fis-mini-project-kong-api-gateway" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=dracula" alt="fis-mini-project-kong-api-gateway" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=radical" alt="fis-mini-project-kong-api-gateway" />
 </a>
+
 <!-- -->
 
 <a href="https://github.com/whynotnghiavu/fis-mini-project-demo-dns-sinkhole" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-demo-dns-sinkhole&theme=cobalt" alt="fis-mini-project-demo-dns-sinkhole" />
 </a>
+
 <!-- -->
 <!-- <a href="https://github.com/whynotnghiavu/FIS-test-be" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=FIS-test-be&theme=onedark" alt="FIS-test-be" />
@@ -69,3 +71,79 @@ My Projects:
 </a>
 
 <!-- -->
+
+<!--
+  default: {
+  default_repocard: {
+  transparent: {
+  shadow_red: {
+  shadow_green: {
+  shadow_blue: {
+  dark: {
+  radical: {
+  merko: {
+  gruvbox: {
+  gruvbox_light: {
+  tokyonight: {
+  onedark: {
+  cobalt: {
+  synthwave: {
+  highcontrast: {
+  prussian: {
+  monokai: {
+  vue: {
+  "vue-dark": {
+  "shades-of-purple": {
+  nightowl: {
+  buefy: {
+  "blue-green": {
+  algolia: {
+  "great-gatsby": {
+  darcula: {
+  bear: {
+  "solarized-dark": {
+  "solarized-light": {
+  "chartreuse-dark": {
+  nord: {
+  gotham: {
+  "material-palenight": {
+  graywhite: {
+  "vision-friendly-dark": {
+  "ayu-mirage": {
+  "midnight-purple": {
+  calm: {
+  "flag-india": {
+  omni: {
+  react: {
+  jolly: {
+  maroongold: {
+  yeblu: {
+  blueberry: {
+  slateorange: {
+  kacho_ga: {
+  outrun: {
+  ocean_dark: {
+  city_lights: {
+  github_dark: {
+  github_dark_dimmed: {
+  discord_old_blurple: {
+  aura_dark: {
+  panda: {
+  noctis_minimus: {
+  cobalt2: {
+  swift: {
+  aura: {
+  apprentice: {
+  moltack: {
+  codeSTACKr: {
+  rose_pine: {
+  catppuccin_latte: {
+  catppuccin_mocha: {
+  date_night: {
+  one_dark_pro: {
+  rose: {
+  holi: {
+  neon: {
+  blue_navy: {
+  calm_pink: {
+  ambient_gradient: { -->
