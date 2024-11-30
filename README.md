@@ -18,11 +18,10 @@ GitHub Stats:
 <hr>
 
 <!-- My Projects: -->
-<!-- Tham khảo: https://github.com/uvipen/uvipen -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<!-- cobalt -->
-<!-- synthwave -->
 <!--  -->
+<!-- synthwave -->
 
 My Projects:
 
@@ -52,6 +51,11 @@ My Projects:
 
 <a href="https://github.com/whynotnghiavu/fis-mini-project-kong-api-gateway" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=dracula" alt="fis-mini-project-kong-api-gateway" />
+</a>
+<!-- -->
+
+<a href="https://github.com/whynotnghiavu/fis-mini-project-demo-dns-sinkhole" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-demo-dns-sinkhole&theme=cobalt" alt="fis-mini-project-demo-dns-sinkhole" />
 </a>
 <!-- -->
 <!-- <a href="https://github.com/whynotnghiavu/FIS-test-be" target="_blank">
