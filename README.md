@@ -1,26 +1,7 @@
-<!-- Contact Information -->
-
-Hello, I am Vu Van Nghia. You can contact me via email:
-<a href="mailto:whynotnghiavu@gmail.com" target="_blank" style="display: inline-flex; align-items: center;">
-<img src="contents/pictures/gmail.webp" alt="whynotnghiavu@gmail.com" style="width: 25px; height: 25px; margin-left: 5px;" />
-</a>
-
-<hr>
-
-<!-- GitHub Stats: -->
-
-GitHub Stats:
-
-<a href="https://github.com/whynotnghiavu" title="whynotnghiavu">
-<img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynotnghiavu&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-</a>
-
-<hr>
-
-<!-- My Projects: -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<!--  -->
+<hr>
+
 <!-- synthwave -->
 
 My Projects:
