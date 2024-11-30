@@ -50,13 +50,13 @@ My Projects:
 <!-- -->
 
 <a href="https://github.com/whynotnghiavu/fis-mini-project-kong-api-gateway" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=radical" alt="fis-mini-project-kong-api-gateway" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=transparent" alt="fis-mini-project-kong-api-gateway" />
 </a>
 
 <!-- -->
 
 <a href="https://github.com/whynotnghiavu/fis-mini-project-demo-dns-sinkhole" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-demo-dns-sinkhole&theme=cobalt" alt="fis-mini-project-demo-dns-sinkhole" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-demo-dns-sinkhole&theme=cobalt2" alt="fis-mini-project-demo-dns-sinkhole" />
 </a>
 
 <!-- -->
@@ -73,10 +73,8 @@ My Projects:
 <!-- -->
 
 <!--
-  default: {
-  default_repocard: {
-  transparent: {
-  shadow_red: {
+  : {
+  : {
   shadow_green: {
   shadow_blue: {
   dark: {
@@ -86,7 +84,7 @@ My Projects:
   gruvbox_light: {
   tokyonight: {
   onedark: {
-  cobalt: {
+   : {
   synthwave: {
   highcontrast: {
   prussian: {
@@ -130,7 +128,7 @@ My Projects:
   aura_dark: {
   panda: {
   noctis_minimus: {
-  cobalt2: {
+  : {
   swift: {
   aura: {
   apprentice: {
