@@ -3,7 +3,7 @@
 
 <hr>
 
-<!-- synthwave -->
+
 
 My Projects:
 
@@ -31,6 +31,30 @@ My Projects:
 
 <!-- -->
 
+
+
+
+
+
+
+
+
+
+<!-- <a href="https://github.com/whynotnghiavu/FIS-test-be" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=FIS-test-be&theme=onedark" alt="FIS-test-be" />
+</a> -->
+
+
+<!-- -->
+
+
+<a href="https://github.com/whynotnghiavu/fis-mini-project-test-first" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-test-first&theme=synthwave" alt="fis-mini-project-test-first" />
+</a>
+
+<!-- -->
+
+
 <a href="https://github.com/whynotnghiavu/fis-mini-project-kong-api-gateway" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=transparent" alt="fis-mini-project-kong-api-gateway" />
 </a>
@@ -42,9 +66,11 @@ My Projects:
 </a>
 
 <!-- -->
-<!-- <a href="https://github.com/whynotnghiavu/FIS-test-be" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=FIS-test-be&theme=onedark" alt="FIS-test-be" />
-</a> -->
+
+<a href="https://github.com/whynotnghiavu/fis-bao-cao-thuc-tap" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-bao-cao-thuc-tap&theme=tokyonight" alt="fis-bao-cao-thuc-tap" />
+</a>
+
 
 <!-- -->
 
@@ -55,20 +81,13 @@ My Projects:
 <!-- -->
 
 <!--
+tokyonight
+   : {
   : {
-  : {
-  shadow_green: {
-  shadow_blue: {
-  dark: {
-  radical: {
-  merko: {
-  gruvbox: {
-  gruvbox_light: {
-  tokyonight: {
   onedark: {
    : {
-  synthwave: {
-  highcontrast: {
+   : {
+   : {
   prussian: {
   monokai: {
   vue: {
