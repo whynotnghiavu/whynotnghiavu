@@ -3,10 +3,6 @@
 
 <hr>
 
-
-
-My Projects:
-
 <a href="https://github.com/whynotnghiavu/nghia-oop-adapter-round-square" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=nghia-oop-adapter-round-square&theme=highcontrast" alt="nghia-oop-adapter-round-square" />
 </a>
@@ -31,22 +27,11 @@ My Projects:
 
 <!-- -->
 
-
-
-
-
-
-
-
-
-
 <!-- <a href="https://github.com/whynotnghiavu/FIS-test-be" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=FIS-test-be&theme=onedark" alt="FIS-test-be" />
 </a> -->
 
-
 <!-- -->
-
 
 <a href="https://github.com/whynotnghiavu/fis-mini-project-test-first" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-test-first&theme=synthwave" alt="fis-mini-project-test-first" />
@@ -54,15 +39,14 @@ My Projects:
 
 <!-- -->
 
-
 <a href="https://github.com/whynotnghiavu/fis-mini-project-kong-api-gateway" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-kong-api-gateway&theme=transparent" alt="fis-mini-project-kong-api-gateway" />
 </a>
 
 <!-- -->
 
-<a href="https://github.com/whynotnghiavu/fis-mini-project-demo-dns-sinkhole" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-demo-dns-sinkhole&theme=cobalt2" alt="fis-mini-project-demo-dns-sinkhole" />
+<a href="https://github.com/whynotnghiavu/fis-mini-project-dns-sinkhole-demo" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-mini-project-dns-sinkhole-demo&theme=cobalt2" alt="fis-mini-project-dns-sinkhole-demo" />
 </a>
 
 <!-- -->
@@ -70,7 +54,6 @@ My Projects:
 <a href="https://github.com/whynotnghiavu/fis-bao-cao-thuc-tap" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whynotnghiavu&repo=fis-bao-cao-thuc-tap&theme=tokyonight" alt="fis-bao-cao-thuc-tap" />
 </a>
-
 
 <!-- -->
 
